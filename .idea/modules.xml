@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-boot-helloworld/spring-boot-helloworld.iml" filepath="$PROJECT_DIR$/spring-boot-helloworld/spring-boot-helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-jpaDemo/spring-boot-jpaDemo.iml" filepath="$PROJECT_DIR$/spring-boot-jpaDemo/spring-boot-jpaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatisDemo/spring-boot-mybatisDemo.iml" filepath="$PROJECT_DIR$/spring-boot-mybatisDemo/spring-boot-mybatisDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springbootexe.iml" filepath="$PROJECT_DIR$/.idea/springbootexe.iml" />
     </modules>
   </component>
