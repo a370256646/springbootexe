@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0820348d-6c17-4fb0-a713-b2043b66b39a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatisDemo/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/controller/EmployeeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/controller/JobController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/interfaces/IEmployeeOptional.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/interfaces/IJobOptional.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/mapper/EmployeeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/mapper/JobMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/model/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/model/Job.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/vo/EmployeeAndJob.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/helloWorld/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-helloworld/target/" />
@@ -80,18 +61,6 @@
                 <element signature="e#1201#1202#0" expanded="true" />
                 <element signature="e#1318#1319#0" expanded="true" />
                 <element signature="e#1387#1388#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JobMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/mapper/JobMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -164,7 +133,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StudentRepository.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StudentRepository.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/repository/StudentRepository.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
@@ -172,6 +141,19 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="125">
+                <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -205,7 +187,6 @@
       <list>
         <option value="$PROJECT_DIR$/spring-boot-helloworld/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/spring-boot-helloworld/src/main/java/com/xp/exe/helloworld/controller/HelloWorldController.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/spring-boot-helloworld/README.md" />
         <option value="$PROJECT_DIR$/spring-boot-jpaDemo/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/spring-boot-jpaDemo/pom.xml" />
@@ -237,6 +218,7 @@
         <option value="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/controller/EmployeeController.java" />
         <option value="$PROJECT_DIR$/spring-boot-mybatisDemo/README.md" />
         <option value="$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/repository/StudentRepository.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -285,61 +267,6 @@
             <path>
               <item name="springbootexe" type="b2602c69:ProjectViewProjectNode" />
               <item name="springbootexe" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootexe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootexe" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-jpaDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootexe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootexe" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-jpaDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootexe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootexe" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-jpaDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootexe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootexe" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-jpaDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootexe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootexe" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-jpaDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jpaDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootexe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootexe" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-jpaDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jpaDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootexe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootexe" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-jpaDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jpaDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -511,12 +438,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520421025943</updated>
-      <workItem from="1520421027533" duration="30230000" />
+      <workItem from="1520421027533" duration="30376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30230000" />
+    <option name="totallyTimeSpent" value="30376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -771,17 +698,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="125">
-            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/MybatisdemoApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -940,6 +856,17 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="125">
+            <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
