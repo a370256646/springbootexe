@@ -10,10 +10,10 @@ import org.springframework.web.bind.annotation.RestController;
  * Date:Create in 2018/3/7 19:39
  * Modified By:
  */
-@RestController     //RestController相当于是controller+responseBody注解
+@RestController     //@RestController相当于是@controller+@responseBody注解
 public class HelloWorldController {
 
-    @RequestMapping("/sayHello/{name}")
+    @RequestMapping("/sayHello/{name}")     //使用@PathVariable注解来绑定路径参数
     public String sayHello(@PathVariable("name") String name){
         return "hello !"+name;
     }
