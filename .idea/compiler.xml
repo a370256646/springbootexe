@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-helloworld" />
+        <module name="spring-boot-jpaDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="helloworld" target="1.8" />
       <module name="spring-boot-helloworld" target="1.8" />
+      <module name="spring-boot-jpaDemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
