@@ -5,7 +5,7 @@ Spring boot mybatis Demo
 
 #解决目标
 * mybatis单表简单查询
-* mybatis单表关联分页查询
+* mybatis多表关联分页查询
 
 #请求url
 * 增加职位信息:http://localhost:8080/addJob?name=经理description=管人的
