@@ -45,7 +45,7 @@ public class EmployeeController implements IEmployeeOptional {
     @Override
     @RequestMapping("/modifyEmployee")
     public String modifyEmployee(Employee newEmployee) {
-        Employee oldEmployee=employeeMapper.getEMployeeByName(newEmployee.getName());
+        Employee oldEmployee=employeeMapper.getEmployeeByName(newEmployee.getName());
         if(null==oldEmployee){
             return "用户不存在";
         }

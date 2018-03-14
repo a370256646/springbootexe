@@ -18,7 +18,7 @@ public interface EmployeeMapper {
     Employee getEmployeeById(Long id);
 
     @Select("select * from employee where name=#{name}")
-    Employee getEMployeeByName(String name);
+    Employee getEmployeeByName(String name);
 
     @Insert("insert into employee values(#{id},#{name}," +
             "#{age},#{jobId})")
