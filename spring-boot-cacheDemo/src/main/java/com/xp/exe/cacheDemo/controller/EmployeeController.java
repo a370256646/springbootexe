@@ -14,23 +14,32 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.annotation.Resource;
-import java.util.List;
 
 /**
  * Author:coderXp
- * Description:
+ * Description: 员工操作类
  * Date:Create in 2018/3/8 17:20
  * Modified By:
  */
 @RestController
 @CacheConfig(cacheNames = "myRedisCache")
 public class EmployeeController implements IEmployeeOptional {
-    @Resource    //spring boot官方说明,redisTemplate必须得使用byName注入才行
+    /**
+     * spring boot官方说明,redisTemplate必须得使用byName注入才行
+     */
+    @Resource
     private RedisTemplate<Long , Employee> redisTemplate;
-    //另一种操作redis String的方法
+
+    /**
+     * 另一种操作redis String的方法
+     */
     private StringRedisTemplate stringRedisTemplate;
 
+    /**
+     * 员工do操作类
+     */
     private EmployeeMapper employeeMapper;
+
     public EmployeeController(EmployeeMapper employeeMapper,StringRedisTemplate stringRedisTemplate){
         this.employeeMapper=employeeMapper;
         this.stringRedisTemplate=stringRedisTemplate;
