@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaConsume/kafkaConsume.iml" filepath="$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaConsume/kafkaConsume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaProduce/kafkaProduce.iml" filepath="$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaProduce/kafkaProduce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-kafkaDemo/kafkademo.iml" filepath="$PROJECT_DIR$/spring-boot-kafkaDemo/kafkademo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-cacheDemo/spring-boot-cacheDemo.iml" filepath="$PROJECT_DIR$/spring-boot-cacheDemo/spring-boot-cacheDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-helloWorldTest/spring-boot-helloWorldTest.iml" filepath="$PROJECT_DIR$/spring-boot-helloWorldTest/spring-boot-helloWorldTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-helloworld/spring-boot-helloworld.iml" filepath="$PROJECT_DIR$/spring-boot-helloworld/spring-boot-helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-jpaDemo/spring-boot-jpaDemo.iml" filepath="$PROJECT_DIR$/spring-boot-jpaDemo/spring-boot-jpaDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatisDemo/spring-boot-mybatisDemo.iml" filepath="$PROJECT_DIR$/spring-boot-mybatisDemo/spring-boot-mybatisDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-redisDemo/spring-boot-redisDemo.iml" filepath="$PROJECT_DIR$/spring-boot-redisDemo/spring-boot-redisDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-securityDemo/spring-boot-securityDemo.iml" filepath="$PROJECT_DIR$/spring-boot-securityDemo/spring-boot-securityDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springbootexe.iml" filepath="$PROJECT_DIR$/.idea/springbootexe.iml" />
     </modules>
   </component>

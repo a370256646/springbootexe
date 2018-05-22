@@ -8,6 +8,11 @@
         <option value="$PROJECT_DIR$/spring-boot-mybatisDemo/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-redisDemo/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-cacheDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-kafkaDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaConsume/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaProduce/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-securityDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-helloWorldTest/pom.xml" />
       </list>
     </option>
   </component>

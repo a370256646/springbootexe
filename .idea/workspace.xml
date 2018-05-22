@@ -2,33 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0820348d-6c17-4fb0-a713-b2043b66b39a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_22_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_22_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_22_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_22_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_22_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_22_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_45.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_0_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cacheDemo/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/controller/EmployeeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/interfaces/IEmployeeOptional.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/mapper/EmployeeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/model/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-redisDemo/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-redisDemo/src/main/java/com/xp/exe/redisDemo/controller/EmployeeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-redisDemo/src/main/java/com/xp/exe/redisDemo/interfaces/IEmployeeOptional.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-redisDemo/src/main/java/com/xp/exe/redisDemo/mapper/EmployeeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-redisDemo/src/main/java/com/xp/exe/redisDemo/model/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_kafka_spring_kafka_2_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-helloWorldTest/src/main/java/com/xp/exe/helloWorldTest/HelloWorldController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-kafkaDemo/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaConsume/src/main/java/com/xp/exe/kafkaconsume/controller/ReceiveKafkaMessageController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaConsume/src/main/java/com/xp/exe/kafkaconsume/mapper/MessageMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaProduce/src/main/java/com/xp/exe/kafkaProduce/controller/SendKafkaMessageController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaProduce/src/main/java/com/xp/exe/kafkaProduce/model/Message.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-kafkaDemo/kafkademo.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/0ccca75b-6168-44bb-afb5-4b1f32b7a9a5.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/0ccca75b-6168-44bb-afb5-4b1f32b7a9a5.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
@@ -36,8 +23,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/controller/EmployeeController.java" afterPath="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/controller/EmployeeController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/mapper/EmployeeMapper.java" afterPath="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/mapper/EmployeeMapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/controller/EmployeeController.java" afterPath="$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/controller/EmployeeController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/interfaces/IEmployeeOptional.java" afterPath="$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/interfaces/IEmployeeOptional.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/controller/StudentController.java" afterPath="$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/controller/StudentController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-redisDemo/src/main/java/com/xp/exe/redisDemo/interfaces/IEmployeeOptional.java" afterPath="$PROJECT_DIR$/spring-boot-redisDemo/src/main/java/com/xp/exe/redisDemo/interfaces/IEmployeeOptional.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-redisDemo/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/spring-boot-redisDemo/src/main/resources/application.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/helloWorld/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-helloworld/target/" />
@@ -45,6 +36,11 @@
     <ignored path="$PROJECT_DIR$/spring-boot-mybatisDemo/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-redisDemo/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-cacheDemo/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-kafkaDemo/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaConsume/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaProduce/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-securityDemo/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-helloWorldTest/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,46 +69,26 @@
     </expand>
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springbootexe" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EmployeeController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/controller/EmployeeController.java">
+      <file leaf-file-name="SendKafkaMessageController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaProduce/src/main/java/com/xp/exe/kafkaProduce/controller/SendKafkaMessageController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="597">
-              <caret line="52" column="53" lean-forward="true" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
+            <state relative-caret-position="0">
+              <caret line="52" column="29" lean-forward="false" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-cacheDemo/src/main/resources/application.properties">
+      <file leaf-file-name="ReceiveKafkaMessageController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaConsume/src/main/java/com/xp/exe/kafkaconsume/controller/ReceiveKafkaMessageController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1150">
-              <caret line="46" column="23" lean-forward="false" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="200">
-                <caret line="8" column="49" lean-forward="false" selection-start-line="8" selection-start-column="49" selection-end-line="9" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CacheDemoApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/CacheDemoApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            <state relative-caret-position="1450">
+              <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,11 +96,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-cacheDemo/pom.xml">
+      <file leaf-file-name="EmployeeMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/mapper/EmployeeMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="64" column="21" lean-forward="true" selection-start-line="60" selection-start-column="8" selection-end-line="64" selection-end-column="21" />
+            <state relative-caret-position="475">
+              <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-helloworld/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-boot-helloWorldTest/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-kafkaDemo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2400">
+              <caret line="96" column="12" lean-forward="false" selection-start-line="96" selection-start-column="12" selection-end-line="96" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaProduce/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaConsume/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -144,6 +180,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>User</find>
+      <find>save</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -157,47 +194,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring-boot-helloworld/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-boot-helloworld/src/main/java/com/xp/exe/helloworld/controller/HelloWorldController.java" />
-        <option value="$PROJECT_DIR$/spring-boot-helloworld/README.md" />
-        <option value="$PROJECT_DIR$/spring-boot-jpaDemo/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-boot-jpaDemo/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/enums/StudentOptionalEnum.java" />
-        <option value="$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/enums/ClassInfoOptionalEnum.java" />
-        <option value="$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/model/ClassInfo.java" />
-        <option value="$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/repository/ClassInfoRepository.java" />
-        <option value="$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/interfaces/IClassInfoOptional.java" />
-        <option value="$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/model/Student.java" />
-        <option value="$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/interfaces/IStudentOptional.java" />
-        <option value="$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/controller/StudentController.java" />
-        <option value="$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/vo/StudentClassVo.java" />
-        <option value="$PROJECT_DIR$/spring-boot-jpaDemo/README.md" />
-        <option value="$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/controller/ClassInfoController.java" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatisDemo/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/model/User.java" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/model/UserInfo.java" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/model/employee.java" />
         <option value="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/model/Job.java" />
         <option value="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/interfaces/IJobOptional.java" />
         <option value="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/mapper/JobMapper.java" />
         <option value="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/MybatisdemoApplication.java" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/controller/JobController.java" />
         <option value="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/model/Employee.java" />
         <option value="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/vo/EmployeeAndJob.java" />
         <option value="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/interfaces/IEmployeeOptional.java" />
         <option value="$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/repository/StudentRepository.java" />
         <option value="$PROJECT_DIR$/spring-boot-mybatisDemo/README.md" />
-        <option value="$PROJECT_DIR$/spring-boot-redisDemo/src/main/java/com/xp/exe/redisDemo/interfaces/IEmployeeOptional.java" />
         <option value="$PROJECT_DIR$/spring-boot-redisDemo/src/main/java/com/xp/exe/redisDemo/RedisdemoApplication.java" />
         <option value="$PROJECT_DIR$/spring-boot-redisDemo/src/main/java/com/xp/exe/redisDemo/model/Employee.java" />
         <option value="$PROJECT_DIR$/spring-boot-redisDemo/src/main/java/com/xp/exe/redisDemo/mapper/EmployeeMapper.java" />
         <option value="$PROJECT_DIR$/spring-boot-redisDemo/src/main/java/com/xp/exe/redisDemo/controller/EmployeeController.java" />
         <option value="$PROJECT_DIR$/spring-boot-redisDemo/README.md" />
         <option value="$PROJECT_DIR$/spring-boot-redisDemo/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-redisDemo/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/model/Employee.java" />
-        <option value="$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/interfaces/IEmployeeOptional.java" />
         <option value="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/mapper/EmployeeMapper.java" />
         <option value="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/controller/EmployeeController.java" />
         <option value="$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/config/RedisCacheManager.java" />
@@ -205,9 +218,33 @@
         <option value="$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/mapper/EmployeeMapper.java" />
         <option value="$PROJECT_DIR$/spring-boot-cacheDemo/README.md" />
         <option value="$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/CacheDemoApplication.java" />
-        <option value="$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/controller/EmployeeController.java" />
         <option value="$PROJECT_DIR$/spring-boot-cacheDemo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-kafkaDemo/src/main/java/com/xp/exe/kafkaDemo/KafkaDemoApplication.java" />
+        <option value="$PROJECT_DIR$/spring-boot-kafkaDemo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-kafkaDemo/src/main/java/com/xp/exe/kafkaDemo/receiver/ReceiverTestController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-kafkaDemo/src/main/java/com/xp/exe/kafkaDemo/controller/KafkaTestController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-redisDemo/src/main/java/com/xp/exe/redisDemo/interfaces/IEmployeeOptional.java" />
+        <option value="$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/controller/EmployeeController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/interfaces/IEmployeeOptional.java" />
+        <option value="$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaProduce/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaConsume/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaConsume/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaProduce/src/main/java/com/xp/exe/kafkaProduce/model/Message.java" />
+        <option value="$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaConsume/src/main/java/com/xp/exe/kafkaconsume/mapper/MessageMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaProduce/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaProduce/src/main/java/com/xp/exe/kafkaProduce/controller/SendKafkaMessageController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-kafkaDemo/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-redisDemo/src/main/resources/application.properties" />
+        <option value="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar!/javax/persistence/EntityManager.class" />
+        <option value="$PROJECT_DIR$/spring-boot-kafkaDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/model/Student.java" />
+        <option value="$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/controller/StudentController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaConsume/src/main/java/com/xp/exe/kafkaconsume/controller/ReceiveKafkaMessageController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-helloWorldTest/src/main/java/com/xp/exe/helloWorldTest/HelloWorldController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-helloWorldTest/pom.xml" />
       </list>
     </option>
   </component>
@@ -223,6 +260,25 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="helloWorldTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="helloWorldTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="28" />
@@ -248,6 +304,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,22 +315,53 @@
               <item name="springbootexe" type="b2602c69:ProjectViewProjectNode" />
               <item name="springbootexe" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="springbootexe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootexe" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-helloWorldTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootexe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootexe" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-helloWorldTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootexe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootexe" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-helloWorldTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootexe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootexe" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-helloWorldTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootexe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootexe" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-helloWorldTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="helloWorldTest" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/ideaprojectsNew" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL&#10;Oracle" />
@@ -292,16 +383,17 @@
       <recent name="com.xp.exe.jpaDemo.enums" />
     </key>
     <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.xp.exe.kafkaProduce.model" />
       <recent name="com.xp.exe.redisDemo.model" />
       <recent name="com.xp.exe.jpaDemo.model" />
       <recent name="com.xp.exe" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\devlop\springbootexe\spring-boot-kafkaDemo" />
       <recent name="D:\devlop\springbootexe\spring-boot-cacheDemo" />
       <recent name="D:\devlop\springbootexe\spring-boot-redisDemo" />
       <recent name="D:\devlop\springbootexe\spring-boot-mybatisDemo" />
       <recent name="D:\devlop\springbootexe\spring-boot-jpaDemo" />
-      <recent name="D:\devlop\springbootexe" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -316,7 +408,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.CacheDemoApplication">
+  <component name="RunManager" selected="Spring Boot.HelloWorldTestApplication">
     <configuration name="CacheDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -327,6 +419,13 @@
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xp.exe.cacheDemo.CacheDemoApplication" />
       <option name="SHOW_IN_DASHBOARD" value="true" />
       <module name="spring-boot-cacheDemo" />
+      <envs />
+    </configuration>
+    <configuration name="HelloWorldTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xp.exe.helloWorldTest.HelloWorldTestApplication" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="spring-boot-helloWorldTest" />
       <envs />
     </configuration>
     <configuration name="HelloworldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -341,6 +440,20 @@
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xp.exe.jpaDemo.JpademoApplication" />
       <option name="SHOW_IN_DASHBOARD" value="true" />
       <module name="spring-boot-jpaDemo" />
+      <envs />
+    </configuration>
+    <configuration name="KafkaConsumeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xp.exe.kafkaconsume.KafkaConsumeApplication" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="kafkaConsume" />
+      <envs />
+    </configuration>
+    <configuration name="KafkaProduceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xp.exe.kafkaProduce.KafkaProduceApplication" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="kafkaProduce" />
       <envs />
     </configuration>
     <configuration name="MybatisdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -444,12 +557,15 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="5">
+    <list size="8">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.HelloworldApplication" />
       <item index="1" class="java.lang.String" itemvalue="Spring Boot.JpademoApplication" />
       <item index="2" class="java.lang.String" itemvalue="Spring Boot.MybatisdemoApplication" />
       <item index="3" class="java.lang.String" itemvalue="Spring Boot.RedisdemoApplication" />
       <item index="4" class="java.lang.String" itemvalue="Spring Boot.CacheDemoApplication" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.KafkaConsumeApplication" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.KafkaProduceApplication" />
+      <item index="7" class="java.lang.String" itemvalue="Spring Boot.HelloWorldTestApplication" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -465,20 +581,33 @@
       <workItem from="1520421027533" duration="30976000" />
       <workItem from="1520560481099" duration="3301000" />
       <workItem from="1520821579206" duration="24675000" />
-      <workItem from="1520940610036" duration="6757000" />
+      <workItem from="1520940610036" duration="34469000" />
+      <workItem from="1521510344980" duration="3289000" />
+      <workItem from="1521682239005" duration="3788000" />
+      <workItem from="1521711156274" duration="1308000" />
+      <workItem from="1522117207096" duration="153000" />
+      <workItem from="1522148574064" duration="596000" />
+      <workItem from="1522315069045" duration="2866000" />
+      <workItem from="1522658275103" duration="1203000" />
+      <workItem from="1522724174056" duration="1564000" />
+      <workItem from="1524047553120" duration="1170000" />
+      <workItem from="1524540213531" duration="1054000" />
+      <workItem from="1524709177106" duration="313000" />
+      <workItem from="1524813148662" duration="2576000" />
+      <workItem from="1525248843763" duration="23000" />
+      <workItem from="1526006778501" duration="1662000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65709000" />
+    <option name="totallyTimeSpent" value="114986000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32852808" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852808" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -492,16 +621,16 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6694215" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6694215" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32561985" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25037935" sideWeight="0.5140496" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2367223" sideWeight="0.4859504" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2367223" sideWeight="0.5140496" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17754173" sideWeight="0.4859504" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2367223" sideWeight="0.5140496" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -526,385 +655,386 @@
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="12" />
+      <option name="time" value="15" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/model/StudentClassVo.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/enums/ClassInfoOptionalEnum.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.0.RELEASE/spring-boot-autoconfigure-2.0.0.RELEASE.jar!/org/springframework/boot/autoconfigure/data/redis/RedisProperties.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        <state relative-caret-position="522">
+          <caret line="144" column="53" lean-forward="false" selection-start-line="144" selection-start-column="49" selection-end-line="144" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/model/ClassInfo.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.5.RELEASE/spring-data-redis-2.0.5.RELEASE.jar!/org/springframework/data/redis/core/StringRedisTemplate.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        <state relative-caret-position="150">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/model/Student.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-cacheDemo/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        <state relative-caret-position="950">
+          <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/interfaces/IStudentOptional.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-redisDemo/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="64" column="50" lean-forward="true" selection-start-line="64" selection-start-column="50" selection-end-line="64" selection-end-column="50" />
+        <state relative-caret-position="399">
+          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/repository/ClassInfoRepository.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/interfaces/IClassInfoOptional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="30" column="45" lean-forward="false" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/vo/StudentClassVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/controller/ClassInfoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-260">
-          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-jpaDemo/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="125">
-            <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-jpaDemo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="57" column="21" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="57" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/controller.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/interfaces/IJobOptional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-jpaDemo/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/controller/JobController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/vo/EmployeeAndJob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/interfaces/IEmployeeOptional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="49" column="30" lean-forward="false" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.5/mybatis-3.4.5.jar!/org/apache/ibatis/binding/MapperProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/model/Job.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="31" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/controller/StudentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1575">
-          <caret line="81" column="5" lean-forward="false" selection-start-line="76" selection-start-column="4" selection-end-line="81" selection-end-column="5" />
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/repository/StudentRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="29" column="97" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="29" selection-end-column="97" />
+        <state relative-caret-position="191">
+          <caret line="16" column="51" lean-forward="false" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="175">
-            <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.5.RELEASE/spring-data-jpa-2.0.5.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="15" column="61" lean-forward="false" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE-sources.jar!/org/springframework/data/util/DirectFieldAccessFallbackBeanWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="34" column="11" lean-forward="false" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.5.RELEASE/spring-data-jpa-2.0.5.RELEASE.jar!/org/springframework/data/jpa/repository/support/JpaPersistableEntityInformation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="557" column="30" lean-forward="false" selection-start-line="557" selection-start-column="26" selection-end-line="557" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE-sources.jar!/org/springframework/data/repository/core/support/AbstractEntityInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="49" column="51" lean-forward="true" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.5.RELEASE/spring-data-jpa-2.0.5.RELEASE.jar!/org/springframework/data/jpa/repository/support/JpaMetamodelEntityInformation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="151" column="27" lean-forward="true" selection-start-line="151" selection-start-column="27" selection-end-line="151" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE-sources.jar!/org/springframework/data/repository/core/EntityInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.14.Final/hibernate-core-5.2.14.Final.jar!/org/hibernate/engine/spi/SessionDelegatorBaseImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="260" column="55" lean-forward="false" selection-start-line="260" selection-start-column="32" selection-end-line="260" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.14.Final/hibernate-core-5.2.14.Final.jar!/org/hibernate/engine/spi/SharedSessionContractImplementor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="59" column="9" lean-forward="false" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.14.Final/hibernate-core-5.2.14.Final.jar!/org/hibernate/internal/AbstractSharedSessionContract.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="337" column="35" lean-forward="false" selection-start-line="337" selection-start-column="13" selection-end-line="337" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.14.Final/hibernate-core-5.2.14.Final.jar!/org/hibernate/event/internal/DefaultMergeEventListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="60" column="24" lean-forward="false" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.14.Final/hibernate-core-5.2.14.Final.jar!/org/hibernate/event/spi/MergeEventListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.14.Final/hibernate-core-5.2.14.Final.jar!/org/hibernate/internal/SessionImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="770" column="27" lean-forward="true" selection-start-line="770" selection-start-column="27" selection-end-line="770" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar!/javax/persistence/EntityManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.5.RELEASE/spring-data-jpa-2.0.5.RELEASE.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="298" column="5" lean-forward="true" selection-start-line="298" selection-start-column="5" selection-end-line="298" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE-sources.jar!/org/springframework/data/repository/PagingAndSortingRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="31" column="62" lean-forward="true" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-redisDemo/src/main/java/com/xp/exe/redisDemo/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.5.RELEASE/spring-data-redis-2.0.5.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="86" column="72" lean-forward="false" selection-start-line="86" selection-start-column="41" selection-end-line="86" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/interfaces/IStudentOptional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="64" column="95" lean-forward="false" selection-start-line="64" selection-start-column="87" selection-end-line="64" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/2.1.4.RELEASE/spring-kafka-2.1.4.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/MybatisdemoApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/model/Employee.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/spring-boot-mybatisDemo.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        <state relative-caret-position="-225">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-redisDemo/mvnw.cmd">
+    <entry file="file://$PROJECT_DIR$/spring-boot-jpaDemo/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="275">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="43" column="21" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="43" selection-end-column="21" />
+        <state relative-caret-position="498">
+          <caret line="45" column="28" lean-forward="false" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/controller/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="48" column="27" lean-forward="false" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-jpaDemo/src/main/java/com/xp/exe/jpaDemo/model/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/model/Job.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/model/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/interfaces/IEmployeeOptional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="37" column="32" lean-forward="false" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/vo/EmployeeAndJob.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="49" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="16" selection-end-column="49" />
+        <state relative-caret-position="475">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.4.RELEASE/spring-web-5.0.4.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+    <entry file="file://$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaProduce/src/main/java/com/xp/exe/kafkaProduce/model/Message.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+        <state relative-caret-position="375">
+          <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/mapper/JobMapper.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaProduce/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        <state relative-caret-position="325">
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-redisDemo/src/main/java/com/xp/exe/redisDemo/interfaces/IEmployeeOptional.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaConsume/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="325">
+          <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-redisDemo/src/main/java/com/xp/exe/redisDemo/mapper/EmployeeMapper.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaConsume/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="25" column="80" lean-forward="false" selection-start-line="25" selection-start-column="80" selection-end-line="25" selection-end-column="80" />
+        <state relative-caret-position="425">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-redisDemo/src/main/java/com/xp/exe/redisDemo/model/Employee.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-kafkaDemo/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="2400">
+          <caret line="96" column="12" lean-forward="false" selection-start-line="96" selection-start-column="12" selection-end-line="96" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-cache/2.0.0.RELEASE/spring-boot-starter-cache-2.0.0.RELEASE.pom">
+    <entry file="file://$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaProduce/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaConsume/src/main/java/com/xp/exe/kafkaconsume/controller/ReceiveKafkaMessageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1450">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-kafkaDemo/kafkaProduce/src/main/java/com/xp/exe/kafkaProduce/controller/SendKafkaMessageController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/model/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="52" column="29" lean-forward="false" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/mapper/EmployeeMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/interfaces/IEmployeeOptional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="475">
+          <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-redisDemo/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
-            <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatisDemo/src/main/java/com/xp/exe/mybatisdemo/controller/EmployeeController.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-helloworld/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="47" column="61" lean-forward="false" selection-start-line="47" selection-start-column="61" selection-end-line="47" selection-end-column="61" />
+        <state relative-caret-position="296">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-helloWorldTest/src/main/java/com/xp/exe/helloWorldTest/HelloWorldController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#376#377#0" expanded="false" />
+            <element signature="e#415#416#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-redisDemo/src/main/java/com/xp/exe/redisDemo/RedisdemoApplication.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-helloWorldTest/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="196">
+          <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/config/RedisCacheManager.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-redisDemo/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="36" column="27" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="36" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.45/mysql-connector-java-5.1.45.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-redisDemo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="56" column="21" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="56" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/mapper/EmployeeMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cacheDemo/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="175">
-            <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-redisDemo/src/main/java/com/xp/exe/redisDemo/controller/EmployeeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cacheDemo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="64" column="21" lean-forward="true" selection-start-line="60" selection-start-column="8" selection-end-line="64" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/CacheDemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cacheDemo/src/main/java/com/xp/exe/cacheDemo/controller/EmployeeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="52" column="53" lean-forward="true" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cacheDemo/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="46" column="23" lean-forward="false" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="200">
-            <caret line="8" column="49" lean-forward="false" selection-start-line="8" selection-start-column="49" selection-end-line="9" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -960,7 +1090,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>spring-boot-cacheDemo</last-edited>
+          <last-edited>kafkaConsume</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

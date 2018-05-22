@@ -6,20 +6,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="kafkaConsume" />
+        <module name="kafkaProduce" />
         <module name="spring-boot-cacheDemo" />
         <module name="spring-boot-helloworld" />
+        <module name="spring-boot-helloWorldTest" />
         <module name="spring-boot-jpaDemo" />
+        <module name="spring-boot-kafkaDemo" />
         <module name="spring-boot-mybatisDemo" />
         <module name="spring-boot-redisDemo" />
+        <module name="spring-boot-securityDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="helloworld" target="1.8" />
+      <module name="kafkaConsume" target="1.8" />
+      <module name="kafkademo" target="1.8" />
+      <module name="kafkaProduce" target="1.8" />
       <module name="spring-boot-cacheDemo" target="1.8" />
       <module name="spring-boot-helloworld" target="1.8" />
+      <module name="spring-boot-helloWorldTest" target="1.8" />
       <module name="spring-boot-jpaDemo" target="1.8" />
+      <module name="spring-boot-kafkaDemo" target="1.8" />
       <module name="spring-boot-mybatisDemo" target="1.8" />
       <module name="spring-boot-redisDemo" target="1.8" />
+      <module name="spring-boot-securityDemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
