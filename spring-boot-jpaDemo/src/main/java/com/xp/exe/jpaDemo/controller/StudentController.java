@@ -76,8 +76,9 @@ public class StudentController implements IStudentOptional{
 
     @Override
     @RequestMapping("/getStudentClassInfoByClassName")
-    public List<StudentClassVo> getStudentClassVoByClassName(String className,@PageableDefault(value = 5,
-            sort = {"stuAge"},direction = Sort.Direction.DESC) Pageable pageable) {
+    public List<StudentClassVo> getStudentClassVoByClassName(String className,
+             @PageableDefault(value = 5,sort = {"stuAge"},
+                     direction = Sort.Direction.DESC) Pageable pageable) {
         return studentRepository.getStudentClassVoByClassName(className,pageable);
     }
 }
